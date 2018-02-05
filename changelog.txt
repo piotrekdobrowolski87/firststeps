@@ -1,0 +1,11 @@
+0.1
+Dupa
+
+0.5
+Lepiej
+
+1.0
+Start
+
+1.2
+hot fixes
